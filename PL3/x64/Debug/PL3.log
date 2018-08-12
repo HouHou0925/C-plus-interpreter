@@ -1,0 +1,39 @@
+﻿  PL3.cpp
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(399): warning C4267: '=': 將 'size_t' 轉換為 'unsigned int'，資料可能遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(920): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(961): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(1506): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(1807): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(2003): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(2452): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(2515): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(2584): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(2605): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(3126): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(3169): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(3175): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(3295): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(3516): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(3496): warning C4101: 'value': 未參考的區域變數
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(3770): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(3802): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(3833): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(3896): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(3926): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(3996): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(4080): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(4158): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(4225): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(4303): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(4311): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(4341): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(4348): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(4379): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(4436): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(4497): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(4523): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(4606): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(4773): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(5034): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\onedrive\pl資料夾\pl_project3\pl3\pl3\pl3.cpp(4957): warning C4101: 'c': 未參考的區域變數
+  PL3.vcxproj -> C:\Users\User\OneDrive\PL資料夾\PL_project3\PL3\x64\Debug\PL3.exe
