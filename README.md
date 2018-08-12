@@ -1,7 +1,5 @@
 
 PL3(CYCU PL課程projcet)
-
-
 使用語言:C++
 編譯器: vs 2017
 
