@@ -4,13 +4,13 @@ PL3(CYCU PL課程projcet)
 
 ****
 	
-|Author|果冻虾仁|
+|Author|侯昱宏|
 |---|---
-|E-mail|Jelly.K.Wang@qq.com
+|E-mail|h55334147879@gmail.com
 
 
 ****
-## 目录
+## 目錄
 * [横线](#横线)
 * [标题](#标题)
 * [文本](#文本)
