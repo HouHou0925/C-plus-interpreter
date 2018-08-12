@@ -1,6 +1,5 @@
-#PL3(CYCU PL課程projcet)
-#作者:侯昱宏
-#(請勿copy 夏教授抓copy是會往上抓的!)
+PL3(CYCU PL課程projcet)
+
 ===========================
 
 ****
