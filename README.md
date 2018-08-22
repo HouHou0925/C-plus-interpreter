@@ -49,8 +49,8 @@ Porject4為 3的進階 要加入Call function的能力
 
 範例
 ----
-
-https://github.com/silence0925/PL/blob/master/pl%E7%AF%84%E4%BE%8B1.PNG
+範例1: 有做function的call stack 可以區分出 變數的範圍
+![image](https://github.com/silence0925/PL/blob/master/pl%E7%AF%84%E4%BE%8B1.PNG)
 
 
 
