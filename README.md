@@ -72,7 +72,7 @@ Done(); 以上的為輸入 以下為輸出
 複雜範例
 ----
 1.迴圈功能及輸出(階層 只有while功能沒有for)  
-![image](https://github.com/silence0925/PL/blob/master/pl%E7%AF%84%E4%BE%8B1.PNG)
+![image](https://github.com/silence0925/PL/blob/master/%E9%9A%8E%E4%B9%98.PNG)
 
 2.複雜的輸入 包含條件判斷等等(  Done();以上為輸入!! )
 ![image](https://github.com/silence0925/PL/blob/master/%E8%A4%87%E9%9B%9C1.PNG)
