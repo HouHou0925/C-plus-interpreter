@@ -89,7 +89,15 @@ Done(); 以上的為輸入 以下為輸出
 ![image](https://github.com/silence0925/PL/blob/master/image/%E8%A4%87%E9%9B%9C5.PNG)
 
 3.複雜的輸入2
-
+![image](https://github.com/silence0925/PL/blob/master/image/%E8%A4%87%E9%9B%9C2-1.PNG)
+![image](https://github.com/silence0925/PL/blob/master/image/%E8%A4%87%E9%9B%9C2-2.PNG)
+![image](https://github.com/silence0925/PL/blob/master/image/%E8%A4%87%E9%9B%9C2-3.PNG)
+![image](https://github.com/silence0925/PL/blob/master/image/%E8%A4%87%E9%9B%9C2-4.PNG)
+![image](https://github.com/silence0925/PL/blob/master/image/%E8%A4%87%E9%9B%9C2-5.PNG)
+![image](https://github.com/silence0925/PL/blob/master/image/%E8%A4%87%E9%9B%9C2-6.PNG)
+![image](https://github.com/silence0925/PL/blob/master/image/%E8%A4%87%E9%9B%9C2-7.PNG)
+![image](https://github.com/silence0925/PL/blob/master/image/%E8%A4%87%E9%9B%9C2-8.PNG)
+![image](https://github.com/silence0925/PL/blob/master/image/%E8%A4%87%E9%9B%9C2-9.PNG)
 
 
 
