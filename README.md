@@ -44,6 +44,7 @@ Porject4為 3的進階 要加入Call function的能力
 5.提供 ListVariable("變數名稱")、ListAllVariables()、
        ListFunction("名稱")、ListAllFunctions() 等4個額外輸入  
 6.輸入錯誤時會印出對印的錯誤行數  
+7. Error可以分出是lexical error(不接受的token @#$等等)、syntactic error(文法錯誤)、 semantic error(呼叫未宣告變數)
 
 ------------------------------------------------------
 
