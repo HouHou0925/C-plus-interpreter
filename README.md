@@ -43,7 +43,7 @@ Porject4為 3的進階 要加入Call function的能力
 基本上大部分的C文法都能接受  
 2.程式開始前要先隨便輸入一個數字 然後按enter後才算開始執行  
 3.程式結束以輸入 Done();  為結束  
-4.可接受 變數宣告.function宣告.陣列宣告及運算.條件式.迴圈等等運算能力
+4.可接受 變數宣告.function宣告.陣列宣告及運算.條件式.迴圈等等運算能力  
 5.提供 ListVariable("變數名稱")、ListAllVariables()、
        ListFunction("名稱")、ListAllFunctions() 等4個額外輸入  
 6.輸入錯誤時會印出對印的錯誤行數  
