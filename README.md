@@ -67,7 +67,8 @@ Done(); 以上的為輸入 以下為輸出
 
 ![image](https://github.com/silence0925/PL/blob/master/4%E5%80%8Bfunction.PNG)
 
-範例4: 重複的變數宣告
+範例4: 重複的變數宣告  
+
 ![image](https://github.com/silence0925/PL/blob/master/%E9%87%8D%E8%A4%87.PNG)
 
 
