@@ -1,5 +1,6 @@
 
 PL3(CYCU PL課程projcet)  
+簡易版C語言Interpreter  
 使用語言:C++  
 編譯器: vs 2017  
 (中原資工系同學請勿Copy 後果自負)
@@ -70,6 +71,15 @@ Done(); 以上的為輸入 以下為輸出
 
 複雜範例
 ----
+1.迴圈功能及輸出(階層 只有while功能沒有for)  
+![image](https://github.com/silence0925/PL/blob/master/pl%E7%AF%84%E4%BE%8B1.PNG)
+
+2.複雜的輸入 包含條件判斷等等
+![image](https://github.com/silence0925/PL/blob/master/%E8%A4%87%E9%9B%9C1.PNG)
+![image](https://github.com/silence0925/PL/blob/master/%E8%A4%87%E9%9B%9C2.PNG)
+![image](https://github.com/silence0925/PL/blob/master/%E8%A4%87%E9%9B%9C3.PNG)
+![image](https://github.com/silence0925/PL/blob/master/%E8%A4%87%E9%9B%9C4.PNG)
+![image](https://github.com/silence0925/PL/blob/master/%E8%A4%87%E9%9B%9C5.PNG)
 
 
 
