@@ -16,7 +16,7 @@ PL3(CYCU PL課程projcet)
 ## 目錄
 * [介紹](#介紹)
 * [功能](#功能)
-* [範例](#範例)
+* [範例(基本功能)](#範例(基本功能))
 
 
 ------------------------------------------------------  
@@ -51,17 +51,19 @@ Porject4為 3的進階 要加入Call function的能力
 
 ------------------------------------------------------
 
-範例
+範例(基本功能)
 ----
 範例1: 有做function的call stack 可以區分出 變數的範圍  
 Done(); 以上的為輸入 以下為輸出
 ![image](https://github.com/silence0925/PL/blob/master/pl%E7%AF%84%E4%BE%8B1.PNG)
 
-範例2:Error示範 (行數的部分 每一次跑parse tree會重製)
+範例2:Error示範 (行數的部分 每一次跑parse tree會重置)
 
 ![image](https://github.com/silence0925/PL/blob/master/%E9%8C%AF%E8%AA%A4%E7%A4%BA%E7%AF%84.PNG)
 
+範例3: 4個function示範  
 
+![image](https://github.com/silence0925/PL/blob/master/4%E5%80%8Bfunction.PNG)
 
 
 
